@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.1.2
+torch==2.1.2+cpu
 streamlit==1.32.0
 numpy==1.26.4
 faiss-cpu==1.7.4
